@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to open FitSync](https://your-streamlit-link.streamlit.app)
+👉 [Click here to open FitSync](https://vibeathon-3pwhh5x2hsg4cikyya7vkt.streamlit.app/)
 
 ---
 
